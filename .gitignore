@@ -1,0 +1,27 @@
+/models/
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+terracanvas_env/
+.env
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Dataset or model weights
+/models/
+*.tar
+*.tar.gz
+*.zip
+
+# Streamlit cache (optional)
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db

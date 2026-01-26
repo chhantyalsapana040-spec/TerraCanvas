@@ -7,3 +7,9 @@ matplotlib
 streamlit 
 pydeck
 geopy
+diffusers 
+transformers 
+accelerate 
+torch 
+streamlit
+
