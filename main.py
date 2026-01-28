@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import pydeck as pdk
 
-from pixazo_ai import generate_ai_art
+from local_sd_ai import generate_ai_art
 
 st.set_page_config(layout="wide")
 st.title("TerraCanvas: AI Environmental Art Generator")
@@ -60,3 +60,5 @@ if st.button("Generate Artwork"):
     if image:
         st.image(image)
         st.write("Prompt:", prompt)
+    else:
+        st.error("Failed to generate artwork.")

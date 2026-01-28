@@ -1,15 +1,19 @@
-pandas 
-numpy 
-pillow 
-opencv-python 
-streamlit 
+# Data and visualization
+pandas
+numpy
+Pillow
+opencv-python
+regex
 matplotlib
-streamlit 
+tqdm
+streamlit
 pydeck
 geopy
-diffusers 
-transformers 
-accelerate 
-torch 
-streamlit
 
+# ML / Stable Diffusion
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
