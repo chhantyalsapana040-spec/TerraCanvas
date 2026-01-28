@@ -98,7 +98,7 @@ if st.button("Generate Artwork"):
         )
 
     if image is not None:
-        st.image(image, use_column_width=True)
+        st.image(image, width=512)
         st.markdown(f"**Prompt:** {prompt}")
     else:
         st.error("Failed to generate artwork.")
