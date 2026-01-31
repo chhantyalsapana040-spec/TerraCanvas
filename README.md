@@ -47,9 +47,9 @@ pip install -r requirements.txt
 ```
 3. Download Models Manually Using the Link:https://huggingface.co/jinseokim/stable-diffusion-pytorch-data/resolve/main/data.v20221029.tar
 
-4. Add models to the project
+4. Add Data folder from the downloaded file to models folder on the project
 - Extract the downloaded .tar file 
-- Place the data folder ad stable_diffusion_pytorch/ folder inside the models folder as shown in the screenshot below:
+- Place the data folder inside the models folder as shown in the screenshot below:
 ![alt text](image.png)
 
 5. Running the project
