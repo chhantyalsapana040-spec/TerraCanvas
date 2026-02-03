@@ -5,7 +5,7 @@
 ## Student name: Sapana Chhantyal
 ## Student number: 2316389 
 ## Project title: TERRACANVAS: AI ENVIRONMENTAL ART GENERATOR  USING ENVIRONMENTAL DATA
-## Link to project video recording:
+## Link to project video recording: https://uca.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f0dc3b3c-a85f-4172-827b-b3e30082ab13
 
 # Description:
 TerraCanvas is an interactive Python program that converts environmental data to AI-generated art. TerraCanvas offers an artistic visualisation of the environmental conditions and air quality in cities by incorporating environmental metrics (e.g., AQI, PM2.5, CO, temperature, humidity) with a local Stable Diffusion model.
